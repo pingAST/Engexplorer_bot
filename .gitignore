@@ -1,0 +1,6 @@
+__pycache__/
+.idea/
+.git/
+venv/
+conf1.py
+data.json
